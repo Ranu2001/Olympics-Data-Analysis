@@ -11,7 +11,8 @@ Datasets: athlete_events.csv and noc_regions.csv Dataset Link: https://www.kaggl
 
 # Overall analysis:
 ![Screenshot 2023-12-12 143618](https://github.com/Ranu2001/Olympics-Data-Analysis/assets/73168391/3f5fe105-6e07-4ee5-9fc4-63b0a067e148)
-Country-wise Analysis - India:
+
+# Country-wise Analysis - India:
 ![Screenshot 2023-12-26 233228](https://github.com/Ranu2001/Olympics-Data-Analysis/assets/73168391/647f3114-d216-4d3f-a7fe-1db2a0ddf6c1)
 ![Screenshot 2023-12-26 233246](https://github.com/Ranu2001/Olympics-Data-Analysis/assets/73168391/c77bca23-0faf-4ff9-9574-da568ba3e6d6)
 ![Screenshot 2023-12-26 233321](https://github.com/Ranu2001/Olympics-Data-Analysis/assets/73168391/4b0c6e5c-1fb6-447d-b756-1050183d98f5)
