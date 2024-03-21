@@ -1,9 +1,8 @@
-matplotlib==3.7.2
-pandas==2.0.3
-Pillow==9.5.0
-Pillow==10.2.0
-plotly==5.16.1
-scipy==1.12.0
-seaborn==0.13.2
-streamlit==1.28.0
-streamlit==1.25.0
+matplotlib
+pandas
+Pillow
+Pillow
+plotly
+scipy
+seaborn
+streamlit
